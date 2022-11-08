@@ -5,7 +5,7 @@ respond in voice as well as text.
 
 2.It understand the natural human language and speak in natural language.
 
-3. it works over user's voice commands and give output in voice and text form.
+3.It works over user's voice commands and give output in voice and text form.
 
 4.Python advanced modules are used in this project such as pyttsx3, pywhatkit, pyaudio, openCV etc.
 
